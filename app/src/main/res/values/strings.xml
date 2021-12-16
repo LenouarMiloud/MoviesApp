@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">moviesApp</string>
+    <string name="movies_list_string">MOVIES LIST</string>
+    <string name="trending_movies_string">trending movies</string>
+    <string name="date_string">Date</string>
+    <string name="movie_title_string">Movie Title</string>
+</resources>

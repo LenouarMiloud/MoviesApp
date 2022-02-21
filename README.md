@@ -1,6 +1,6 @@
 # MoviesApp 🎥 ❤️
 in this app you get all the trending movie now
-
+it helps the movies lovers to see what they love 
 1. List of Trending Movies 
 
 ![](https://github.com/LenouarMiloud/MoviesApp/blob/main/ScreenShots/Screenshot1.jpg)
